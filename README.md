@@ -2,6 +2,8 @@
 
 This project is about theorizing an anti-capitalist cryptoeconomic theory as an alternative approach to the cryptoeconomics shaping the blockchain ecosystem today.
 
+# Introduction
+
 ## The problem
 
 Cryptoeconomics is the use of game theory, cryptographic proofs and computer science to guarantee future economic outcomes. Most of the top protocols in the blockchain ecosystem, such as Bitcoin, Ethereum and others, apply cryptoeconomics, for example in describing the fault tolerance of a protocol through the ['Byzantine Generals Problem'](https://lamport.azurewebsites.net/pubs/byz.pdf), which is a [coordination game](https://en.wikipedia.org/wiki/Coordination_game) problem, but also when incentivising the systems, such as proof-of-work mining rewards, proof-of-stake validator rewards, and making it very costly to perform attacks against the networks, eg 51% attacks. 
@@ -12,7 +14,28 @@ That the assumptions underlying today's cryptoeconomics have biased the evolutio
 
 The goal of a new anti-capitalist cryptoeconomics is to increase the wellbeing of those less well off and minimize the gap between rich and poor, the powerful and powerless, incentivised overall to drive society towards solidarity, classlessness, self-managing, directly-democratic and diverse outcomes. The anti-capitalist cryptoeconomics spelled out here does not believe you can use game theory to ['program people'(link qoute) or their behavior. That is because this theory abandons the outdated assumption that people are ['homo economicus'](https://blog.p2pfoundation.net/samuel-bowles-death-homo-economicus/2017/03/21), the profit-maximizing individualist that haunts the crypto scene today. Instead, this effort aims to apply game theory, cryptography and computer science to promote those values, however gently and non-deterministically, with an understanding that we cannot force people to behave the way we want to.
 
-## Contribute
+## Chapter 1
+
+## Chapter 2
+
+## Chapter 3
+
+## Chapter 4
+
+## Chapter 5
+
+## Chapter 6
+
+## Chapter 7
+
+## Chapter 8
+
+## Chapter 9
+
+## Chapter 10
+
+
+## Contribute to this project
 
 This project is an open source, in progress, collective effort. To contribute:
 - clone this repo
