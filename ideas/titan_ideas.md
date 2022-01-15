@@ -1,4 +1,5 @@
 ## links
+https://github.com/karlfloersch/backup_research  
 https://github.com/cheat-sheets/cryptoeconomics-cheat-sheet  
 https://github.com/L4ventures/awesome-cryptoeconomics  
 https://cryptoeconomics.study/docs/en/sync/getting-started-development-setup  
