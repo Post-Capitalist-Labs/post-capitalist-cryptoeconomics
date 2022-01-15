@@ -49,11 +49,11 @@ The topics covered in this chapters will include
 
 ## Chapter 4: TXs, Coins and Tokenomics
 - Mempools, front running, back running and other strategies
-- Market caps
-- Total supplies and burning 
+- Market caps, Total supplies and burning 
 - NFTs 
 - Vesting
 - Exchanges and arbitrage
+- Liquid staking, flash loans, yield farming 
 
 ## Chapter 5: Blockchain interoperability
 This chapter will cover:
