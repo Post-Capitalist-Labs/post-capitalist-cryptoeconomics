@@ -39,6 +39,9 @@ The goal of a new anti-capitalist cryptoeconomics is to increase the wellbeing 
 
 This project is an open source, in progress, collective effort. To contribute:
 - clone this repo
+- the ideas folder is where you can create a `.md` doc to store any ideas of links 
+- the table of contents list in the `README.md` doc is just to list titles
+- there is a directory for each chapter and a `.md` doc inside  
 - make your edits and suggesitons locally
 - push your changes for review
 
