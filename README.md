@@ -1,6 +1,20 @@
-# An anti-capitialist crypto-economics
+# An anti-capitialist cryptoeconomics
 
 An alternative to current cryptoeconomic theories shaping the blockchain ecosystem, to provide a new framework for decentralized consensus protocols that promote solidarity, self-management, diversity, classlessness and direct democracy.
+
+
+#The problem
+
+Cryptoeconomics is the use of game theory, cryptographic proofs and computer science to guarantee future economic outcomes. Most of the top protocols in the blockchain ecosystem, such as Bitcoin, Ethereum and others, apply cryptoecononmcis, for exmaple in describing the fault tolerance of a protocol through the 'Byzantine General's Problem', which is a cooordaintion problem, but also when incentivising the systems, such as proof-of-work mining rewards, proof-of-stake validator rewards, and making it very costly to perform attacks against the networks, eg 51% attacks. The problem with cryptoeconomics today is that it has been used to theorise protocol development and user expeiences in ways that assume that people are profit maximising individualists and that, by seeking their own self-interest, this behavior is rational. For example, an individual stakes 35 ETH to become a validator, and there are validator rewards and penalties. Trading crypto pairs is all about buying cheap and selling dear for as low as personal risk as possible. This helps enable perverse market incentives where opportunities for arbitrage and frontrunning occurs at the expense of the rest of the network and community. For example, the Flashbots team revealed that 'maximum extracted value'(MEV) accounted for ~900 million USD in 2021 through exploiting MEV opportunities (https://explore.flashbots.net/). Additionally, 'token economics', which is form of cryptoeconomics which abstracts away protocol considerations, is driven by the desire to tokeniz everything. The assumptions underlaying todya's cryptoeconomics has biased the development of distributed ledger technology and decentralized consensus protocols. 
+
+This work is an effort to create a new alternative cryptoeconomics that uses game theory, gametheory and computor science in a way that biases towards social and individual outcomes on equal footing to enable values such as solidarity, direct democracy, diversity, self-management and classlessness. For example, John Rawls' theory of justice envisioned a just outcome being one that raised the position of those least well off in society to one that is better and he did so through a 'viel of 'ignorance' thought experient considering where and individual is asked to imagine the principles they would use to guide a basic structure of society, without knowing ahead of time what position they would hold in that society. The choice is made behind a "veil of ignorance" which prevents them from knowing their race, class, gender, ability or decision-makinkg status or knowing anyone elses. But this is not enough. That's because the experiemnt should be conductred, not onnly from an individual perspective, but a collective perspective becuase in Rawls' formulation you can both improve the position of those least well off in society AND, at the same time, increase the gap between the rich and poor, the powerful and the powerless, etc. The goal of a new anti-captialist cryptoeconommcs is to increase those less well off AND minimize the gap between rich and poor, the powerful and powerless, incentivised overall to drive towards soldarity, classlessness, self-management, direct-demiocracy. 
+
+Another important difference between anti-captialist cryptoeconomics spelled out here and the dominant cryptoeconomics is that this effort doe snot beleive you can use game theory to 'program people' (link to quote) or their behavior. that is becuase this theory abandons the out dated assumption that people are 'homo economicus' that haunts the crypto scene today. Instead, this effort aimes to apply game thoery, cryptogrpahy and computor science to gently guid and promote human values such as those above, and others, with an understanding that we cannot force people to behave the way we want to.  
+
+
+
+
+
 
 ## Getting started
 
