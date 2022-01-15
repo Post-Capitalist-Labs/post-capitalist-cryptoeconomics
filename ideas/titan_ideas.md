@@ -7,7 +7,7 @@ https://podcasts.apple.com/gb/podcast/ep-60-we-found-a-problem-that-crypto-truly
 
 ## books / authors
 - herbet gintis  
-- sam bowles  
+- sam bowles https://sites.santafe.edu/~bowles/index.php/more/lectures/  
 - robin hahnel    
 - elinor ostrom - governing the commons    
 - ronald coase, the nature of the firm, the problem of social cost, coase theorom
