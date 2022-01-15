@@ -15,9 +15,10 @@ That the assumptions underlying today's cryptoeconomics have biased the evolutio
 The goal of a new anti-capitalist cryptoeconomics is to increase the wellbeing of those less well off and minimize the gap between rich and poor, the powerful and powerless, incentivised overall to drive society towards solidarity, classlessness, self-managing, directly-democratic and diverse outcomes. The anti-capitalist cryptoeconomics spelled out here does not believe you can use game theory to ['program people'(link qoute) or their behavior. That is because this theory abandons the outdated assumption that people are ['homo economicus'](https://blog.p2pfoundation.net/samuel-bowles-death-homo-economicus/2017/03/21), the profit-maximizing individualist that haunts the crypto scene today. Instead, this effort aims to apply game theory, cryptography and computer science to promote those values, however gently and non-deterministically, with an understanding that we cannot force people to behave the way we want to.
 
 
-# Table of contents (wip)
+# Table of contents (wip: what is listed below will go through many iterations)
 
-## Chapter 0: Introduction 
+## Chapter 0: Introduction
+- Draft in progress above 
 
 # Part 1: The stack
 
@@ -28,7 +29,7 @@ This chapter will lay ground for discussing protocols by introducing the Byzanti
 - proof-of-authority
 - proof-of-space time
 
-And many other novel protocols.
+And other novel protocols.
 
 ## Chapter 2: Layer 2 - Offchain & Scaling up
 This chapter will look at how the current cryptoeconomic paradigm has shaped scaling solutions such as:
@@ -42,13 +43,17 @@ And more.
 
 ## Chapter 3: Applications - dApps & DAOs 
 The topics covered in this chapters will include 
+- wallets
+- decentralized applicaitons
+- decentalized autonomous organizations
 
-
-## Chapter 4: Coins and Tokenomics
-- Market cap
+## Chapter 4: TXs, Coins and Tokenomics
+- Mempools, front running, back running and other strategies
+- Market caps
 - Total supplies and burning 
 - NFTs 
 - Vesting
+- Exchanges and arbitrage
 
 ## Chapter 5: Blockchain interoperability
 This chapter will cover:
