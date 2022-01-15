@@ -14,31 +14,65 @@ That the assumptions underlying today's cryptoeconomics have biased the evolutio
 
 The goal of a new anti-capitalist cryptoeconomics is to increase the wellbeing of those less well off and minimize the gap between rich and poor, the powerful and powerless, incentivised overall to drive society towards solidarity, classlessness, self-managing, directly-democratic and diverse outcomes. The anti-capitalist cryptoeconomics spelled out here does not believe you can use game theory to ['program people'(link qoute) or their behavior. That is because this theory abandons the outdated assumption that people are ['homo economicus'](https://blog.p2pfoundation.net/samuel-bowles-death-homo-economicus/2017/03/21), the profit-maximizing individualist that haunts the crypto scene today. Instead, this effort aims to apply game theory, cryptography and computer science to promote those values, however gently and non-deterministically, with an understanding that we cannot force people to behave the way we want to.
 
-## Chapter 1
 
-## Chapter 2
+# Table of contents (wip)
 
-## Chapter 3
+## Chapter 0: Introduction 
 
-## Chapter 4
+# Part 1: The stack
 
-## Chapter 5
+## Chapter 1: Layer 1 - The protocol
+This chapter will lay ground for discussing protocols by introducing the Byzantine Generals problem as a coordiantion problem. It will then critically assess various decentralized consensus protocols such:
+- proof-of-work
+- proof-of-stake
+- proof-of-authority
+- proof-of-space time
 
-## Chapter 6
+And many other novel protocols.
 
-## Chapter 7
+## Chapter 2: Layer 2 - Offchain & Scaling up
+This chapter will look at how the current cryptoeconomic paradigm has shaped scaling solutions such as:
+- sharding
+- zk-roll-ups
+- state channels
+- side chains
 
-## Chapter 8
+And more.
 
-## Chapter 9
 
-## Chapter 10
+## Chapter 3: Applications - dApps & DAOs 
+The topics covered in this chapters will include 
+
+
+## Chapter 4: Coins and Tokenomics
+- Market cap
+- Total supplies and burning 
+- NFTs 
+- Vesting
+
+## Chapter 5: Blockchain interoperability
+This chapter will cover:
+- Hubs
+- Pegs
+- Bridges
+
+# Part 2: Governance 
+
+## Chapter 6: TBD
+
+## Chapter 7: TBD
+
+## Chapter 8: TBD
+
+## Chapter 9: TBD
+
+## Chapter 10: TBD
 
 
 ## Contribute to this project
 
 This project is an open source, in progress, collective effort. To contribute:
-- clone this repo
+- clone or fork this repo
 - the ideas folder is where you can create a `.md` doc to store any ideas of links 
 - the table of contents list in the `README.md` doc is just to list titles
 - there is a directory for each chapter and a `.md` doc inside  
