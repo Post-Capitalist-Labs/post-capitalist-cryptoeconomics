@@ -62,9 +62,9 @@ This chapter will cover:
 
 # Part 2: Governance 
 
-## Chapter 6: Quadratic voting
+## Chapter 6: Liquid democracy & Quadratic voting
 
-## Chapter 7: Public untilities
+## Chapter 7: Public utilities
 
 ## Chapter 8: TBD
 
@@ -82,5 +82,4 @@ This project is an open source, in progress, collective effort. To contribute:
 - there is a directory for each chapter and a `.md` doc inside  
 - make your edits and suggesitons locally
 - push your changes for review
-
  
