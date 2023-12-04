@@ -1,4 +1,3 @@
-```markdown
 # Chapter 2: Critique of Decentralized Consensus Protocols in a Post-Capitalist Framework
 
 ## 2.1 Introduction
@@ -58,4 +57,3 @@ In a post-capitalist perspective, the assessment of these protocols involves eva
 ## 2.6 Conclusion
 
 In a post-capitalist society, the evaluation of decentralized consensus protocols extends beyond technical efficiency to consider environmental sustainability, equity, and the distribution of influence. Each protocol presents a unique set of trade-offs, and their appropriateness depends on the specific goals and values of the decentralized system. As we explore the landscape of consensus protocols, it is crucial to critically assess their impact on society and their alignment with the principles of a post-capitalist ethos.
-```
