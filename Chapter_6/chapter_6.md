@@ -1,4 +1,4 @@
-# Post-Capitalist Critique of Liquid Democracy and Quadratic Voting
+# Chapter 6: Post-Capitalist Critique of Liquid Democracy and Quadratic Voting
 
 In the realm of decentralized governance, Liquid Democracy and Quadratic Voting have emerged as innovative approaches, yet a post-capitalist perspective advocating for direct democracy raises critical questions about these systems.
 

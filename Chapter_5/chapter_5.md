@@ -1,4 +1,4 @@
-# Post-Capitalist Critique of Cryptoeconomic Incentives in Blockchain Security
+# Chapter 5: Post-Capitalist Critique of Cryptoeconomic Incentives in Blockchain Security
 
 In the decentralized landscape of blockchain, the cryptoeconomic incentives that underpin security measures sometimes paradoxically contribute to hacks and attacks. While blockchain technology promises transparency, immutability, and decentralization, the pursuit of profit in a capitalist framework can lead to unintended consequences.
 

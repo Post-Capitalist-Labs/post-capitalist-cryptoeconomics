@@ -1,4 +1,4 @@
-# Introduction: Decentralized Technologies, Token Economics, and the Need for Ethical Intervention
+# Chapter 4: Introduction: Decentralized Technologies, Token Economics, and the Need for Ethical Intervention
 
 In 2021, the Flashbots team brought to light a concerning trend in the blockchain space—the exploitation of 'maximal extracted value' (MEV), resulting in approximately $900 million USD in losses. This phenomenon, driven by practices like MEV frontrunning and arbitrage, underscores the challenges posed by self-interest and profit maximization in decentralized systems.
 

@@ -1,4 +1,4 @@
-# Rethinking Cryptoeconomics: Moving Beyond Profit Maximization
+# Chapter 0: Rethinking Cryptoeconomics: Moving Beyond Profit Maximization
 
 Cryptoeconomics, the fusion of game theory, cryptographic proofs, and computer science to shape future economic outcomes, is a cornerstone of major blockchain protocols like Bitcoin and Ethereum. However, the predominant use of cryptoeconomics today leans heavily on assumptions rooted in profit-maximizing individualism, which may not align with the broader goals of creating sustainable and equitable decentralized systems.
 

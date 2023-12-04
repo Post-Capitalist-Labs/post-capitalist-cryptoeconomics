@@ -1,4 +1,4 @@
-# Critique of Cryptoeconomic Paradigm in Blockchain Scaling Solutions
+# Chapter 3: Critique of Cryptoeconomic Paradigm in Blockchain Scaling Solutions
 
 ## Introduction
 
