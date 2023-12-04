@@ -1,3 +1,18 @@
+# Introduction: Decentralized Technologies, Token Economics, and the Need for Ethical Intervention
+
+In 2021, the Flashbots team brought to light a concerning trend in the blockchain space—the exploitation of 'maximal extracted value' (MEV), resulting in approximately $900 million USD in losses. This phenomenon, driven by practices like MEV frontrunning and arbitrage, underscores the challenges posed by self-interest and profit maximization in decentralized systems.
+
+Moreover, the rise of 'token economics,' a form of cryptoeconomics abstracting away protocol considerations, reflects a fervent desire to tokenize every aspect of our digital lives. While this trend may offer new possibilities, it also raises questions about the ethical implications and potential risks associated with overreliance on tokenization.
+
+In this context, the foundational technologies of distributed ledgers and decentralized consensus protocols, critical for both people and the planet, stand at a crossroads. The current trajectory, dominated by self-interest and profit motives, may compromise the original vision of creating decentralized and equitable systems.
+
+An intervention is necessary to reshape the narrative, steering the development of protocols and applications toward values that prioritize the common good over individual profit. The focus should shift from extracting maximal value to fostering a sustainable, inclusive, and ethical ecosystem.
+
+This intervention should involve a reevaluation of existing incentive structures, governance models, and the overarching principles guiding the development of decentralized technologies. Emphasizing transparency, fairness, and environmental sustainability becomes paramount to ensure the long-term viability and positive impact of these technologies.
+
+As we navigate the intricate landscape of blockchain and decentralized systems, it is crucial to recognize the transformative potential of these technologies and the responsibility that comes with their development. By promoting better values and fostering a collaborative, ethical approach, we can build a future where distributed ledger technologies serve the collective interest, contributing to a more just and sustainable world.
+
+
 # A Post-Capitalist Critique of Blockchain Practices
 
 ## Mempools, MEV Strategies, and Unethical Exploitation
