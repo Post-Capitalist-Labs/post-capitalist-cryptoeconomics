@@ -34,7 +34,6 @@ The current cryptoeconomic paradigm, grounded in capitalist profit maximization,
 1. **Complexity and Accessibility:** Implementing zk-roll-ups involves complex cryptographic concepts, potentially limiting accessibility and widening the knowledge gap between participants. This could result in a concentration of expertise and resources.
 2. **Privacy Trade-offs:** While zk-roll-ups offer enhanced privacy, the underlying cryptographic techniques might not be fully understood by all participants, potentially leading to unintended privacy trade-offs.
 
-```markdown
 # Centralized Sequencers in Layer 2 Protocols
 
 In the realm of Layer 2 protocols, the emergence of centralized sequencers has raised concerns from a post-capitalist perspective. While these sequencers may offer convenience and profitability for Layer 2 protocols, the associated risks and implications warrant scrutiny.
@@ -82,11 +81,11 @@ In the realm of Layer 2 protocols, the emergence of centralized sequencers has r
    - **Critique:** Centralized sequencers may prioritize profit-centric motives.
    - **Post-Capitalist Perspective:** Promotes the exploration and development of community-driven and decentralized solutions, fostering a more inclusive and collaborative transaction processing environment.
 
-In conclusion, the use of centralized sequencers in Layer 2 protocols, while providing short-term benefits, raises critical concerns from a post-capitalist standpoint. The pursuit of decentralization, inclusivity, and community-driven values should guide the evolution of Layer 2 transaction processing to ensure a more equitable and sustainable future.
-```
 
 ## Conclusion
 
 In the current cryptoeconomic paradigm rooted in capitalist principles, blockchain scaling solutions prioritize scalability, efficiency, and cost-effectiveness. However, when viewed through a post-capitalist lens, concerns emerge regarding centralization risks, accessibility, and alignment with values such as decentralization and inclusivity.
+
+A particular problem in Layer 2 protocols is the use of centralized sequencers, while providing short-term benefits, raises critical concerns from a post-capitalist standpoint. The pursuit of decentralization, inclusivity, and community-driven values should guide the evolution of Layer 2 transaction processing to ensure a more equitable and sustainable future.
 
 Moving forward, a post-capitalist approach to blockchain scaling solutions would necessitate a more balanced and inclusive design, considering not only technical efficiency but also the distribution of influence, accessibility, and the safeguarding of user rights and privacy. Such an approach would align more closely with the values of a socio-economic system that prioritizes collective well-being over profit maximization.
