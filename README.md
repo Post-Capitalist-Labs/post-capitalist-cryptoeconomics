@@ -17,61 +17,48 @@ The goal of a new post-capitalist cryptoeconomics is to increase the wellbeing 
 
 # Table of contents (wip: what is listed below will go through many iterations)
 
-## Chapter 0: Introduction
-- Draft in progress above 
+## Chapter 0: Rethinking Cryptoeconomics: Moving Beyond Profit Maximization
 
-# Part 1: The stack
+Cryptoeconomics, the fusion of game theory, cryptographic proofs, and computer science to shape future economic outcomes, is a cornerstone of major blockchain protocols like Bitcoin and Ethereum. However, the predominant use of cryptoeconomics today leans heavily on assumptions rooted in profit-maximizing individualism, which may not align with the broader goals of creating sustainable and equitable decentralized systems.
 
-## Chapter 1: Layer 1 - The protocol
-This chapter will lay ground for discussing protocols by introducing the Byzantine Generals problem as a coordination problem. It will then critically assess various decentralized consensus protocols such:
-- proof-of-work
-- proof-of-stake
-- proof-of-authority
-- proof-of-space time
 
-And other novel protocols.
+## Chapter 1: Introduction to Blockchain Protocols and the Byzantine Generals Problem
 
-## Chapter 2: Layer 2 - Offchain & Scaling up
-This chapter will look at how the current cryptoeconomic paradigm has shaped scaling solutions such as:
-- sharding
-- zk-roll-ups
-- state channels
-- side chains
+Blockchain technology has emerged as a transformative force, disrupting traditional systems of trust and enabling decentralized, tamper-resistant data storage. At its core, blockchain is a distributed ledger technology that relies on consensus mechanisms to ensure the integrity and security of transactions. Before delving into the various blockchain protocols, it is essential to understand the fundamental coordination challenges that these protocols aim to address. One such challenge is the Byzantine Generals Problem, a classical problem in computer science and distributed systems.
 
-And more.
 
-## Chapter 3: Applications - dApps & DAOs 
-The topics covered in this chapters will include 
-- wallets
-- decentralized applications
-- decentalized autonomous organizations
+## Chapter 2: Critique of Decentralized Consensus Protocols in a Post-Capitalist Framework
 
-## Chapter 4: TXs, Coins and Tokenomics
-- Mempools, front running, back running and other strategies
-- Market caps, total supplies and burning 
-- NFTs 
-- Vesting
-- Exchanges and arbitrage
-- Liquid staking, flash loans, yield farming 
+As blockchain technology advances, decentralized consensus protocols play a pivotal role in shaping the nature of distributed networks. In the context of a post-capitalist society, where the focus shifts from profit-driven motives to collective well-being, it becomes essential to critically assess existing consensus protocols and explore their implications for fostering a decentralized and equitable socio-economic system.
 
-## Chapter 5: Blockchain interoperability
-This chapter will cover:
-- Hubs
-- Pegs
-- Bridges
 
-# Part 2: Governance 
+## Chapter 3: Critique of Cryptoeconomic Paradigm in Blockchain Scaling Solutions
 
-## Chapter 6: Liquid democracy & Quadratic voting
+The current cryptoeconomic paradigm, grounded in capitalist profit maximization, has significantly influenced the development of blockchain scaling solutions. In the context of a post-capitalist perspective, we'll critically assess three prominent scaling solutions—sharding, optimistic rollups, and zk-roll-ups—to examine how their design and implementation align with or challenge post-capitalist values and incentives.
 
-## Chapter 7: Public utilities
 
-## Chapter 8: TBD
+## Chapter 4: Decentralized Technologies, Token Economics, and the Need for Ethical Intervention
 
-## Chapter 9: TBD
+In 2021, the Flashbots team brought to light a concerning trend in the blockchain space—the exploitation of 'maximal extracted value' (MEV), resulting in approximately $900 million USD in losses. This phenomenon, driven by practices like MEV frontrunning and arbitrage, underscores the challenges posed by self-interest and profit maximization in decentralized systems.
 
-## Chapter 10: TBD
 
+## Chapter 5: Post-Capitalist Critique of Cryptoeconomic Incentives in Blockchain Security
+
+In the decentralized landscape of blockchain, the cryptoeconomic incentives that underpin security measures sometimes paradoxically contribute to hacks and attacks. While blockchain technology promises transparency, immutability, and decentralization, the pursuit of profit in a capitalist framework can lead to unintended consequences.
+
+
+## Chapter 6: Post-Capitalist Critique of Liquid Democracy and Quadratic Voting
+
+In the realm of decentralized governance, Liquid Democracy and Quadratic Voting have emerged as innovative approaches, yet a post-capitalist perspective advocating for direct democracy raises critical questions about these systems.
+
+
+## Chapter 7: Post-Capitalist Critique of Cryptoeconomic Incentives in Public Goods Funding
+
+In the blockchain ecosystem, the cryptoeconomic incentives driving public goods funding, public utilities, and retroactive public good funding are not immune to criticism from a post-capitalist perspective. While these mechanisms aim to promote collective benefits, certain issues and unintended consequences merit scrutiny.
+
+## Principles of Post-Capitalist Cryptoeconomics
+
+Mechanism design for a post-capitalist cryptoeconomic blockchian that produces outcomes that increases the wellbeing of those less well off and minimize the gap between rich and poor, the powerful and powerless, incentivised overall to drive society towards solidarity, classless, self-managing, directly-democratic and diverse outcomes. 
 
 ## Contribute to this project
 
