@@ -1,6 +1,6 @@
 # A post-capitialist cryptoeconomics
 
-This project is about theorizing an post-capitalist cryptoeconomic theory as an alternative approach to the cryptoeconomics shaping the blockchain ecosystem today.
+Proposing a departure from prevailing cryptoeconomic theories that govern the landscape of the blockchain ecosystem, this initiative aims to establish a novel framework for decentralized consensus protocols. The goal is to cultivate values such as solidarity, self-management, diversity, classlessness, and direct democracy within the blockchain sphere.
 
 # Introduction
 
