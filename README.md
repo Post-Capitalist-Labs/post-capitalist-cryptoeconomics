@@ -56,7 +56,7 @@ In the realm of decentralized governance, Liquid Democracy and Quadratic Voting 
 
 In the blockchain ecosystem, the cryptoeconomic incentives driving public goods funding, public utilities, and retroactive public good funding are not immune to criticism from a post-capitalist perspective. While these mechanisms aim to promote collective benefits, certain issues and unintended consequences merit scrutiny.
 
-## Principles of Post-Capitalist Cryptoeconomics
+## Chapter 8: Principles of Post-Capitalist Cryptoeconomics
 
 Mechanism design for a post-capitalist cryptoeconomic blockchian that produces outcomes that increases the wellbeing of those less well off and minimize the gap between rich and poor, the powerful and powerless, incentivised overall to drive society towards solidarity, classless, self-managing, directly-democratic and diverse outcomes. 
 
