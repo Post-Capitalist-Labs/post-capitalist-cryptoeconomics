@@ -160,9 +160,9 @@ Here's a breakdown of the concept:
 
 Each decision node operates independently to a certain extent, with individuals at each level participating in the decision-making process for issues relevant to their sphere of influence. The decentralization of decision nodes ensures that decisions are made by those most directly affected, promoting local autonomy and responsiveness. The interconnectedness of these nodes creates a comprehensive governance structure where decisions flow seamlessly between levels based on the scope and impact of the issues at hand.
 
-## To design a tokenized incentive scheme that balances individual and collective self-interest while minimizing the dominance of self-interest over social welfare, we can implement a system that rewards participation, cooperation, and positive contributions. Here's an outline for such a scheme:
+### Token  Incentive Scheme 
 
-### Tokenized Incentive Scheme:
+To design a tokenized incentive scheme that balances individual and collective self-interest while minimizing the dominance of self-interest over social welfare, we can implement a system that rewards participation, cooperation, and positive contributions. Here's an outline for such a scheme:
 
 1. **Participation Tokens:**
    - Individuals earn participation tokens for actively engaging in the decision-making process, such as voting, proposing ideas, and providing constructive feedback.
