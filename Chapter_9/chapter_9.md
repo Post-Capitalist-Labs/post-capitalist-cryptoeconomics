@@ -1,3 +1,5 @@
+### Mechanism Design for an Autonomous Society 
+
 Creating a mechanism design for an autonomous society based on nested workers councils and consumer councils involves establishing a framework for decentralized, directly democratic governance and participatory planning. Here's a detailed breakdown of the mechanism:
 
 ### 1. **Nested Workers Councils:**
