@@ -338,6 +338,7 @@ By combining multiple tokens within a decentralized governance system to back a 
      - A percentage returns to the staker as an incentive for securing the network.
      - A portion contributes directly to social welfare initiatives.
      - Another portion is allocated to solidarity funds for distribution according to the decentralized governance mechanism.
+     - Finaly, a portion of rewards are returned for protocol development and maintenence, which includes funding developers, developer relations, research and development, onboarding communities, infrustructure and other operational expenses needed to advnace the protocol. 
 
 3. **Staking Duration and Lock-Up:**
    - Participants may choose a staking duration, with longer lock-up periods offering higher rewards.
