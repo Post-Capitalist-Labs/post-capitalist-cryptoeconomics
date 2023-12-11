@@ -64,7 +64,7 @@ Outlining the mechanism design for a post-capitalist cryptoeconomic blockchian t
 
 This chapter details the mechanism design for an autonomous society based on nested workers councils and consumer councils  establishing a framework for decentralized, directly democratic governance and participatory planning. Here's a detailed breakdown.
 
-## Chapter 10: 
+## Chapter 10: Self-Managing Our Autonomous Public Blockchain: Multi-Year Strategy
 
 Blockchain is dynamic and adaptability is key. This chapter outlines a high-level strategy to advance this protocol and stay aligned with emerging trends and challenges.
 
