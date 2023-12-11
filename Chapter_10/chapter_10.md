@@ -1,4 +1,4 @@
-# Self-Managing Our Autonomous Public Blockchain: Multi(2,5,10)-Year Plan
+# Self-Managing Our Autonomous Public Blockchain: Multi(2,5,10)-Year Strategy
 
 ## Technical Expertise
 - Stay updated on blockchain technologies, consensus algorithms, and scalability solutions.
