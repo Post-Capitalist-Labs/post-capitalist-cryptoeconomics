@@ -60,10 +60,13 @@ In the blockchain ecosystem, the cryptoeconomic incentives driving public goods 
 
 Outlining the mechanism design for a post-capitalist cryptoeconomic blockchian that produces outcomes that increases the wellbeing of those less well off and minimize the gap between rich and poor, the powerful and powerless, incentivised overall to drive society towards solidarity, classless, self-managing, directly-democratic and diverse outcomes. 
 
-## From Post-Capitalism to Autonomy: Detailed Mechanism Design for an Autonomous Society 
+## Chapter 9: Beyond Post-Capitalism & Towards Autonomy: Mechanism Design for an Autonomous Society 
 
 This chapter details the mechanism design for an autonomous society based on nested workers councils and consumer councils  establishing a framework for decentralized, directly democratic governance and participatory planning. Here's a detailed breakdown.
 
+## Chapter 10: 
+
+Blockchain is dynamic and adaptability is key. This chapter outlines a high-level strategy to advance this protocol and stay aligned with emerging trends and challenges.
 
 ## Contribute to this project
 
