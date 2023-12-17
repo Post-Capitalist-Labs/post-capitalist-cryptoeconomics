@@ -160,7 +160,7 @@ Here's a breakdown of the concept:
 
 Each decision node operates independently to a certain extent, with individuals at each level participating in the decision-making process for issues relevant to their sphere of influence. The decentralization of decision nodes ensures that decisions are made by those most directly affected, promoting local autonomy and responsiveness. The interconnectedness of these nodes creates a comprehensive governance structure where decisions flow seamlessly between levels based on the scope and impact of the issues at hand.
 
-### Money, Value and Labor
+## Money, Value and Labor
 The proposed future of money and work, focusing on a token-based system where people receive tokens as a reflection of their contribution to society, can be practically implemented today using blockchain technology and tokenomics. Here's a detailed proposal on how this could be brought to life:
 
 **1. Creation of a "Social Currency":**
