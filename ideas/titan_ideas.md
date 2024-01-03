@@ -6,6 +6,7 @@ https://cryptoeconomics.study/docs/en/sync/getting-started-development-setup
 https://commonsstack.org/  
 https://cadcad.org/  
 https://podcasts.apple.com/gb/podcast/ep-60-we-found-a-problem-that-crypto-truly-solves/id1492490959?i=1000536009105  
+https://ajesiroo.github.io/tf.pdf
 
 ## books / authors
 - herbet gintis  
