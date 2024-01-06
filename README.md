@@ -66,7 +66,7 @@ This chapter details the mechanism design for an autonomous society based on nes
 
 ## Chapter 10: Self-Managing Our Autonomous Public Blockchain: Multi-Year Strategy
 
-Blockchain is dynamic and adaptability is key. This chapter outlines a high-level strategy to advance this protocol and stay aligned with emerging trends and challenges.
+Blockchain is dynamic and adaptability is key. This chapter outlines several high-level strategies to advance this protocol and stay aligned with emerging trends and challenges.
 
 ## Contribute to this project
 
