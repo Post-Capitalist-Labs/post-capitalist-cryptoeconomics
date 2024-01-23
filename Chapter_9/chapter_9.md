@@ -95,9 +95,9 @@ If we aim to eliminate representatives altogether and have individuals vote only
 1. **Issue-Specific Voting:**
    - Individuals participate in voting only on issues that directly impact their work, community, or personal life.
 
-2. **Decentralized Decision Nodes:**
-   - Establish decision nodes corresponding to different levels (individual, workplace, community, city, region).
-   - Each decision node focuses on issues relevant to that level.
+2. **Decentralized Decision-Making Nodes:**
+   - Establish decision-making nodes corresponding to different levels (individual, workplace, community, city, region).
+   - Each decision-making node focuses on issues relevant to that level.
 
 3. **Digital Platform for Voting:**
    - Utilize a secure and user-friendly digital platform for voting.
@@ -137,9 +137,9 @@ If we aim to eliminate representatives altogether and have individuals vote only
 This decentralized direct democracy model allows individuals to have a direct say in decisions that impact them while maintaining a quick, efficient, and transparent process. The focus is on leveraging technology to streamline decision-making and ensure broad participation without the need for representatives.
 
 
-## "Decentralized Decision Nodes”
+## "Decentralized Decision-Making Nodes”
 
-"Decentralized Decision Nodes" refer to distinct levels or tiers in the governance structure where decision-making authority is distributed. Each decision node corresponds to a specific level of organization, ranging from individual to broader community or regional levels. The idea is to decentralize decision-making to the most relevant and affected parties, allowing them to have a direct say in matters that concern them.
+"Decentralized Decision-Making Nodes" refer to distinct levels or tiers in the governance structure where decision-making authority is distributed. Each decision node corresponds to a specific level of organization, ranging from individual to broader community or regional levels. The idea is to decentralize decision-making to the most relevant and affected parties, allowing them to have a direct say in matters that concern them.
 
 Here's a breakdown of the concept:
 
